@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "sstream": "cpp",
+        "typeinfo": "cpp",
+        "in.h": "c",
+        "boomboomking.h": "c"
+    }
+}
