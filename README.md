@@ -17,4 +17,4 @@ boomboomPXA
 - Game Interface on LCD Display
 ![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/433a7648-4a7f-4ec7-8456-ec6e5621b417)
 - Game Screen
-[![Watch the video](![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/c1485b4b-9116-475a-879c-2adb96156285))](https://youtu.be/sRQrZ1KpO1s)
+[![Watch the video]![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/b879b84a-ef3d-4ac0-9344-70a1f657731d)](https://youtu.be/sRQrZ1KpO1s?si=5iZ0mPtBWjPhaoie)
