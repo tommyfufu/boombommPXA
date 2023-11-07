@@ -6,7 +6,7 @@
 remaining time on a seven-segment display
 ## Directory
 boomboomPXA
-  - Crazy-Acrade/ (refer to [Crazy-Arcade by dalek669528](https://github.com/dalek669528/Crazy-Arcade.git)
+  - Crazy-Acrade/ (refer to [Crazy-Arcade by dalek669528](https://github.com/dalek669528/Crazy-Arcade.git) )
   - maps/
   - project_boomboomking/ (our part for mutliple player mode and run game on PXA270 
 ## Demo
