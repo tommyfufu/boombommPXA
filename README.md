@@ -14,5 +14,7 @@ boomboomPXA
   - maps/
   - project_boomboomking/ (Developed multiplayer and run the game on PXA270)
 ## Demo
-- Game Interface Display
+- Game Interface on LCD Display
 ![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/433a7648-4a7f-4ec7-8456-ec6e5621b417)
+- Game Screen
+[![Watch the video]()](https://youtu.be/sRQrZ1KpO1s)
