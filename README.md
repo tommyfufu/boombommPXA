@@ -5,9 +5,9 @@
 * Implemented character control via keypad driver, and displayed the game screen on an LCD and the
 remaining time on a seven-segment display
 * Framework
-![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/184ff313-17ef-47a8-8b4b-42632fa3784b)
+  * ![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/184ff313-17ef-47a8-8b4b-42632fa3784b)
 * Flow Chart
-![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/802b0db7-8972-4409-9db5-15205b30fef1)
+  * ![image](https://github.com/tommyfufu/boombommPXA/assets/101622170/802b0db7-8972-4409-9db5-15205b30fef1)
 ## Directory
 boomboomPXA
   - Crazy-Acrade/ (refer to [Crazy-Arcade by dalek669528](https://github.com/dalek669528/Crazy-Arcade.git) )
